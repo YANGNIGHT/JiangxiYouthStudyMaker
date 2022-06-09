@@ -1,6 +1,6 @@
 # JiangxiYouthStudyMaker
 
-江西省2022新版青年大学习善德教育系统自动大学习，支持GitHubAction、云函数自动签到
+江西省2022新版青年大学习善德教育系统自动大学习，支持GitHubAction云函数自动签到
 
 ## 运行环境
 
